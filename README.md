@@ -1,3 +1,3 @@
 # basic_flask
 
-djfsdkjf
+Exploring the Python library Flask for software development.
